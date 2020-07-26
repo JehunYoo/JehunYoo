@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehunYoo)
 ![JehunYoo's github stats](https://github-readme-stats.vercel.app/api?username=JehunYoo&show_icons=true)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JehunYoo&repo=Melon-Playlist-Continuation)<br>
 Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
