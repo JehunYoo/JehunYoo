@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Here's my blog.
-https://jehunyoo.github.io/
+Here's my blog.<br>
+https://jehunyoo.github.io/<br>
 :)
 
 <!--
