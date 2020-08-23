@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Here's my blog.<br>
-https://jehunyoo.github.io/<br>
+- 🌱 I’m currently learning Artificial Intelligence & Algorithms
+- ⭐️ Here's my blog. https://jehunyoo.github.io/
+
 :)
 
 <!--
