@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Artificial Intelligence & Algorithms
-- ⭐️ Here's my blog. https://jehunyoo.github.io/
+- [Melon Playlist Continuation](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11?pvs=4)
+- [Anonymous Board mini project](https://www.notion.so/jehunyoo/Anonymous-Board-30402a71330c45688791b85d7f7132a9?pvs=4)
 
 :)
 
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehunYoo)](https://github.com/anuraghazra/github-readme-stats)
 [![JehunYoo's github stats](https://github-readme-stats.vercel.app/api?username=JehunYoo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
