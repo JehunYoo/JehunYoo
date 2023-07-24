@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-- [Melon Playlist Continuation](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11?pvs=4) (Team Board)
-- [Anonymous Board mini project](https://www.notion.so/jehunyoo/Anonymous-Board-30402a71330c45688791b85d7f7132a9?pvs=4) (Blog)
+- 🌱 I’m currently learning
+    - Algorithms
+    - Java/Spring
+    - Computer Science
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jehunyoo/)
+
+- [🍈 Melon Playlist Continuation](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11?pvs=4) (Team Board)
+- [🚀 jehunyoo.github.io](https://jehunyoo.github.io) (Tech Blog)
+- [🔥 velog](https://velog.io/@jehunyoo)
 
 :)
 
