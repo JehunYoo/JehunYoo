@@ -1,14 +1,18 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning
-    - Algorithms
-    - Java/Spring
+    - Backend Development using
+        - Java/Spring
+        - JPA + QueryDSL
+        - MySQL
     - Computer Science
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jehunyoo/)
-
+- 🔭 I'm into
+    - Domain Driven Design
+    - Hexagonal Architecture
+    - Microservice Architecture
+- [🚀 Tech Blog](https://jehunuuu.notion.site)
 - [🍈 Melon Playlist Continuation](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11?pvs=4) (Team Board)
-- [🚀 jehunyoo.github.io](https://jehunyoo.github.io) (Tech Blog)
-- [🔥 velog](https://velog.io/@jehunyoo)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jehunyoo/)
 
 :)
 
