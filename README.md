@@ -6,7 +6,7 @@
         - JPA + QueryDSL
         - MySQL
     - Computer Science
-- 🔭 I'm into
+- 🔭 I'm currently into
     - Domain Driven Design
     - Hexagonal Architecture
     - Microservice Architecture
